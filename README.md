@@ -1,4 +1,4 @@
-##Jeopardy_Game
+## Jeopardy_Game
 
 A Jeopardy type game using Jeopardy API
 
